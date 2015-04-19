@@ -7,7 +7,7 @@ public class MySQLConnection {
 	Connection conn=null;
 	static String login="root";
 	static String pas="root";
-	static String url="jdbc:mysql://localhost:3306/kursach_norm";
+	static String url="jdbc:mysql://localhost:3306/bus_station";
 	
 	public static Connection dbConnector()
 	{
